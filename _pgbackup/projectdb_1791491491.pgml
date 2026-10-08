@@ -32,7 +32,7 @@
             </dmdesignskill>
             <dmdesignskill skill="fonts" text_weight="" text_color="" text_spacing="" text_effect="" text_italic="" text_smallcaps="" text_uppercase="" headings_weight="" headings_color="" headings_spacing="" headings_effect="" headings_italic="" headings_smallcaps="" headings_uppercase="" text_family="Ubuntu" headings_family="IBM Plex Serif"></dmdesignskill>
             <dmdesignskill skill="headings"></dmdesignskill>
-            <dmdesignskill skill="background" image_for_colors keyword="patterns" selector=".poster" image></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors keyword="patterns" selector=".poster" image="https://images.unsplash.com/photo-1604076850742-4c7221f3101b?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIwNXx8cGF0dGVybnN8ZW58MHx8fHwxNjMyODUyMzA0&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max"></dmdesignskill>
             <dmdesignskill skill="bootstrap" gradients="" responsive_fonts="1" roundness="2" buttonRoundness="1" shadows="1" contrast="0"></dmdesignskill>
         </dmdesign>
     </dmdesigns>

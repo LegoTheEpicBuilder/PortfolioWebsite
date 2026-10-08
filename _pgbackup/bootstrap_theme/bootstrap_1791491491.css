@@ -12626,6 +12626,33 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.poster {
+  z-index: 0;
+}
+
+.poster:before {
+  background-image: url(https://images.unsplash.com/photo-1604076850742-4c7221f3101b?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIwNXx8cGF0dGVybnN8ZW58MHx8fHwxNjMyODUyMzA0&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max) !important;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  content: " ";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  position: absolute;
+}
+
+body.poster:before {
+  position: fixed;
+}
+
+@media (min-width: 1440px), (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 992px) and (min-resolution: 192dpi) {
+  .poster:before {
+    background-image: url(https://images.unsplash.com/photo-1604076850742-4c7221f3101b?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIwNXx8cGF0dGVybnN8ZW58MHx8fHwxNjMyODUyMzA0&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=2000&fit=max) !important;
+  }
+}
 body, html {
   min-height: 100vh;
 }
