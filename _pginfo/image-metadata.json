@@ -120,6 +120,52 @@
       "suggestions": {},
       "revision": "sha256:b51b202e487e8a4dffe55745f31c5b84b406e333c608042eeb111857b8181861",
       "available": true
+    },
+    "image-mv0r9muq-6y66fa5j3vw": {
+      "id": "image-mv0r9muq-6y66fa5j3vw",
+      "source": "url:https://images.unsplash.com/photo-1551650975-87deedd944c3?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDE1fHxhcHB8ZW58MHx8fHwxNjMyODcyMzQ1&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=650&fit=crop",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:7962082dcaaa68438254061e1995f397563ad7065808fe7f95102709a74c34db",
+      "available": true
+    },
+    "image-mv0rakzh-kwepvzs7yul": {
+      "id": "image-mv0rakzh-kwepvzs7yul",
+      "source": "project:html/assets/images/JulesLP.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": null,
+      "available": false
+    },
+    "image-mv0rg8lq-4fn61wa2a89": {
+      "id": "image-mv0rg8lq-4fn61wa2a89",
+      "source": "project:assets/images/LittleBeachBuds.png",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:88d54e5bcbad269bafcfc6fbdc2564e58d2403d5b4b17fc0aed39e97d7c8b4cb",
+      "available": true
+    },
+    "image-mv0rw4jf-icn595bzl9": {
+      "id": "image-mv0rw4jf-icn595bzl9",
+      "source": "url:https://images.unsplash.com/photo-1519211975560-4ca611f5a72a?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDY3fHx3ZWJzaXRlfGVufDB8fHx8MTYzMjg3MjE0OQ&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=650&fit=crop",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:3863865d3250398bf50c4f66b5767cb9d5f9d92375d80fc0cf2e5664b1e0067f",
+      "available": true
+    },
+    "image-mv0rwoez-jkz6rg2fn5": {
+      "id": "image-mv0rwoez-jkz6rg2fn5",
+      "source": "project:assets/images/BeanTycoon3.png",
+      "remembered": {},
+      "suggestions": {}
+    },
+    "image-mv0ry434-309cd30jlq2": {
+      "id": "image-mv0ry434-309cd30jlq2",
+      "source": "url:https://images.unsplash.com/photo-1605067063351-f81bc6041251?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDU3fHxkZXNpZ25lcnxlbnwwfHx8fDE2MzI4Njk1ODY&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=650&fit=crop",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:4405ac49a9b8181831369bdd28020d91e76b6f0074ccb6568a788ba9614d176c",
+      "available": true
     }
   },
   "sources": {
@@ -214,6 +260,40 @@
     },
     "project:assets/images/TimelinePieces/LineBroken.png": {
       "asset": "image-muzy3idj-w19zjs4gebn",
+      "kind": "original",
+      "cropToken": null
+    },
+    "url:https://images.unsplash.com/photo-1551650975-87deedd944c3?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDE1fHxhcHB8ZW58MHx8fHwxNjMyODcyMzQ1&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=650&fit=crop": {
+      "asset": "image-mv0r9muq-6y66fa5j3vw",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:html/assets/images/JulesLP.jpg": {
+      "asset": "image-mv0rakzh-kwepvzs7yul",
+      "kind": "original"
+    },
+    "project:html/assets/images/JulesLP.w848-h1249-c496_896.jpg": {
+      "asset": "image-mv0rakzh-kwepvzs7yul",
+      "kind": "crop",
+      "cropToken": "496_896"
+    },
+    "project:assets/images/LittleBeachBuds.png": {
+      "asset": "image-mv0rg8lq-4fn61wa2a89",
+      "kind": "original",
+      "cropToken": null
+    },
+    "url:https://images.unsplash.com/photo-1519211975560-4ca611f5a72a?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDY3fHx3ZWJzaXRlfGVufDB8fHx8MTYzMjg3MjE0OQ&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=650&fit=crop": {
+      "asset": "image-mv0rw4jf-icn595bzl9",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:assets/images/BeanTycoon3.png": {
+      "asset": "image-mv0rwoez-jkz6rg2fn5",
+      "kind": "original",
+      "cropToken": null
+    },
+    "url:https://images.unsplash.com/photo-1605067063351-f81bc6041251?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDU3fHxkZXNpZ25lcnxlbnwwfHx8fDE2MzI4Njk1ODY&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=650&fit=crop": {
+      "asset": "image-mv0ry434-309cd30jlq2",
       "kind": "original",
       "cropToken": null
     }

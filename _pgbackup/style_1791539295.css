@@ -15,7 +15,3 @@ body.poster {
 p {
     font-size: 16pt;
 }
-
-html {
-    scroll-behavior: smooth;
-}
