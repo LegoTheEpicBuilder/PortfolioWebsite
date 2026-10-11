@@ -16,6 +16,6 @@ p {
     font-size: 16pt;
 }
 
-html {
+:root {
     scroll-behavior: smooth;
 }
