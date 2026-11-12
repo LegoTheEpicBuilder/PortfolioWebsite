@@ -5,3 +5,19 @@ html {
 p {
     font-size: 16pt;
 }
+
+.code-block {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    overflow-x: auto;
+    white-space: pre;
+}
+
+.code-block code {
+    font-family: inherit;
+}
